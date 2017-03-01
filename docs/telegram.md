@@ -250,7 +250,7 @@ Returns link to file.
 
 | Param | Type | Description |
 | --- | --- | --- |
-| fileId | `string` | File id |
+| fileId | `string`\|`object` | File id or file object |
 
 ### getMe
 
